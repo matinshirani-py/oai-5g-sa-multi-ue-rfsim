@@ -310,6 +310,3 @@ Summer 2026 · Internal documentation, O-RAN Project
 
 ---
 
-## 📄 License
-
-Specify your license here (e.g. MIT for your own scripts/docs). Note that OpenAirInterface itself is distributed under its own license terms.
